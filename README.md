@@ -10,4 +10,5 @@ Arya Joshi - 23B1853
 6. [Second_Layer](Second_Layer.py) :- Code and functions used to solve the second/middle layer.
 7. [Top_Layer](Top_Layer.py) :- Code and functions used to solve the top layer.
 8. [Scrambler](Scrambler.py) :- Scrambles/Unsolves an initialized cube.
+*** 
 9. [***Solve_Cube***](Solve_Cube.py) :- Initializes, scrambles and solves a 3x3 cube. The cube can be specified to be color or mirror cube.

@@ -1,7 +1,7 @@
 # PyCube, WiDS 2024
 Arya Joshi - 23B1853
 ***
-***Main File***
+***Main File***<br>
 [***Solve_Cube***](Solve_Cube.py) :- Initializes, scrambles and solves a 3x3 cube. The cube can be specified to be color or mirror cube.
 ***
 ***Important Files***

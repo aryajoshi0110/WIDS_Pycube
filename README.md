@@ -1,6 +1,9 @@
 # PyCube, WiDS 2024
 Arya Joshi - 23B1853
 ***
+***Main File***
+[***Solve_Cube***](Solve_Cube.py) :- Initializes, scrambles and solves a 3x3 cube. The cube can be specified to be color or mirror cube.
+***
 ***Important Files***
 1. [Cube_Piece](Cube_Piece.py) :- Code for each small cube of the 3x3 cube, initialization and the rotation+tracking logic.
 2. [Initialize_Cube](Initialize_Cube.py) :- Two class definitions, one for a 3x3 **color cube** and another for 3x3 **mirror cube**.
@@ -11,4 +14,8 @@ Arya Joshi - 23B1853
 7. [Top_Layer](Top_Layer.py) :- Code and functions used to solve the top layer.
 8. [Scrambler](Scrambler.py) :- Scrambles/Unsolves an initialized cube.
 *** 
-9. [***Solve_Cube***](Solve_Cube.py) :- Initializes, scrambles and solves a 3x3 cube. The cube can be specified to be color or mirror cube.
+
+***Additional Files***
+1. [Balls](Balls.py) :- Code that was used to get familiar with vpython.
+2. [All_Moves.py](All_Moves.py) :- Testing if the commands are working correctly.
+3. [Center_Exchange](Center_Exchange.py) (Fun) :- Algo which interchanges the centers of the faces.
